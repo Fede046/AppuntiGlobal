@@ -1,3 +1,4 @@
+Ho condiviso questi appunti gratuitamente. La loro realizzazione ha richiesto diverse ore di lavoro; se li trovassi utili, ti chiederei di lasciare una ⭐ alla repository come supporto e riconoscimento.
 # Appunti & Riassunti
 
 Questa repository raccoglie appunti e riassunti a scopo di apprendimento.
