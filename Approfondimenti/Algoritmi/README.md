@@ -1,3 +1,4 @@
+Ho condiviso questi appunti gratuitamente. La loro realizzazione ha richiesto diverse ore di lavoro; se li trovassi utili, ti chiederei di lasciare una ⭐ alla repository come supporto e riconoscimento.
 # Algoritmi e Strutture Dati – Informatica per il Management
 
 Questa repository contiene materiale di supporto per il corso **Algoritmi e Strutture Dati** del Corso di Laurea in *Informatica per il Management*.
